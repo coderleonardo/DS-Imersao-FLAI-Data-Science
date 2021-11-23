@@ -48,4 +48,6 @@ Técnicas de modelagem para dados com desbalanceamento agudo
 
 Python e bibliotecas
 
-### Projeto desenvolvido durante a Imersão em Data Science da FLAI
+![Certificado de participação - Leonardo Cesar](https://github.com/coderleonardo/DS-Imersao-FLAI-Data-Science/blob/master/certificado-de-participacao.png)
+
+### Projeto desenvolvido durante a [Imersão em Data Science da FLAI](https://www.linkedin.com/company/flai-inteligencia-artificial/)
