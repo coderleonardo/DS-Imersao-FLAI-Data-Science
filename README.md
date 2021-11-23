@@ -20,7 +20,7 @@ Processamento de dados de texto, programação, web-apps
 
 Python e bibliotecas
 
-## **Projeto 2 - Data Science previsão do salário dos profissionais da área de Dados**
+## **Projeto 2 - Data Science para previsão do salário dos profissionais da área de Dados**
 
 ### *Problema*: 
 
@@ -34,7 +34,7 @@ Machine Learning, métodos de validação, métricas de avaliação, deploy de m
 
 Python e bibliotecas
 
-## **Projeto 3 - Data Science previsão Fraude de Cartões de Crédito**
+## **Projeto 3 - Data Science para previsão Fraude de Cartões de Crédito**
 
 ### *Problema*: 
 
